@@ -1,0 +1,12 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: rgb(216, 212, 212);
+  color: #333333;
+  line-height: 1.6;
+}
